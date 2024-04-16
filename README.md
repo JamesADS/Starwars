@@ -1,8 +1,5 @@
-# React + Vite
+# Star Wars random character generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I'm learning React, and this code generates a webpage with the ability to show some information and an image of a random Star Wars character!
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The data is pulled from this API: https://github.com/akabab/starwars-api/tree/master - so thanks to them!
